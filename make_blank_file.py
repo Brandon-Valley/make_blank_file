@@ -1,0 +1,1 @@
+open('C:\\Users\\Brandon\\Documents\\Personal_Projects\\make_blank_file\\blank_file.txt', 'a').close()
